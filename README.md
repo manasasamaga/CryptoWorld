@@ -1,3 +1,7 @@
+created a crypto tracker app to get the the currency values and latest news regarding crypto
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
